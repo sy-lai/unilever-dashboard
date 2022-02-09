@@ -1,8 +1,7 @@
 # Unilever-dashboard
 Please download the folder and run in R studio
-To start the system:
-Please download R Studio
-Run below line to make sure the version is 3.6
+
+- Run below line to make sure the version is 3.6
 ```
 RNGversion(vstr = 3.6)
 ```
