@@ -16,7 +16,7 @@ C) Logistics:
 - Where is the best location for Walmart distribution center?
 
 
-## Please download the folder and run in R studio
+## Please download the 'Shiny' folder and run in R studio
 - Run below line to make sure the version is 3.6
 ```
 RNGversion(vstr = 3.6)
