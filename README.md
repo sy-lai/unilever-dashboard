@@ -4,15 +4,15 @@
 2. Perform ETL from the Postgres Server
 3. Create a Interactive Marketing Dashboard using R Shiny consists the following:
 
-1) Sales Ranking
+A) Sales Ranking
 - What are the best sellers?
 - What are the top customers?
 - What is the best price range?
 
-2) Demand Planning: 
+B) Demand Planning: 
 - How many ice cream need to be made in the future in order to improve inventory turnover?
 
-3) Logistics: 
+C) Logistics: 
 - Where is the best location for Walmart distribution center?
 
 
