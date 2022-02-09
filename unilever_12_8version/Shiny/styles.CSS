@@ -1,0 +1,13 @@
+
+.outer {
+  background-color: #c4e1ef;
+  position: fixed;
+  top: 60px;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  overflow: hidden;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
