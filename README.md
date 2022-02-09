@@ -3,6 +3,7 @@
 1. Clean and Normalize the Marketing data from Unilever
 2. Perform ETL from the Postgres Server
 3. Create a Interactive Marketing Dashboard using R Shiny consists the following:
+
 -- Sales Ranking
 - What are the best sellers?
 - What are the top customers?
